@@ -1,1 +1,2 @@
 "# bgSlider" 
+"# note" 
